@@ -1,0 +1,8 @@
+#ignoring irrelevant stuff :)
+
+*.exe
+
+input.txt
+output.txt
+
+#choosing to upload the vscode settings, might be useful for others 
