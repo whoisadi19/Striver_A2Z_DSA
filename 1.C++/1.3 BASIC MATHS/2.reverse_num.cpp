@@ -4,7 +4,7 @@ using namespace std;
 //Q2 Reverse a number
 
 
-//my approach (nil)
+//my approach 
 // solution   
 int main(){
 int n;
