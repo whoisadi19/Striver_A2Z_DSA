@@ -5,6 +5,8 @@ int main(){
 
     //digit extraction (reversed order)
     int w = 7789;
+
+    
     //we will use module '%' operator
     //it divides no. by something and then returns the remainder
     //ex: 7789 % 10 = 9
