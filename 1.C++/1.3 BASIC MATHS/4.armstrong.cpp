@@ -32,7 +32,7 @@ if( sum == n) {
 }
 else {
     cout << "not armstrong";
-}
+} 
 
 
 }
